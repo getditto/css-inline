@@ -1,4 +1,6 @@
-# css-inline
+# css-inline Fork
+
+Forks the original repo until https://github.com/tkaitchuck/aHash/issues/95 is resolved.
 
 [![ci](https://github.com/Stranger6667/css-inline/workflows/ci/badge.svg)](https://github.com/Stranger6667/css-inline/actions)
 [![Crates.io](https://img.shields.io/crates/v/css-inline.svg)](https://crates.io/crates/css-inline)
